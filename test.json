@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "title" : "Poezii",
+            "author" : "Mihai Eminescu",
+            "releaseYear" : 2005,
+            "aquisitionDate" : "20-05-2024"
+        },
+        {
+            "title" : "Nuvele",
+            "author" : "George Cosbuc",
+            "releaseYear" : 2010,
+            "aquisitionDate" : "10-12-2021"
+        },
+        {
+            "title" : "Fabule",
+            "author" : "Aesop",
+            "releaseYear" : 2004,
+            "aquisitionDate" : "20-09-2022"
+        },
+        {
+            "title" : "Schite",
+            "author" : "Ion Luca Caragiale",
+            "releaseYear" : 2023,
+            "aquisitionDate" : "15-03-2024"
+        }
+    ]
+}

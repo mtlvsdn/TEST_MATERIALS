@@ -1,0 +1,16 @@
+a {
+    display: block;
+}
+
+h3 {
+    color: red;
+}
+
+h1 {
+    color: violet;
+}
+
+.points {
+    color: olivedrab;
+    font-weight: bold;
+}
